@@ -1,11 +1,11 @@
+#Not all the Lib folder must be ignored. 09/28/2016 JLC
 lib/bootstrap/**
 lib/jquery*/**
 
-#Including Angular files
-!lib/angular*/**
-
-
 *.js
 *.js.map
+
+#Including Angular files 09/28/2016 JLC
+!lib/angular*/**
 
 !_references.js
