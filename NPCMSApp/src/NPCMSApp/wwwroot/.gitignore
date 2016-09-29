@@ -1,4 +1,5 @@
-lib/
+lib/bootstrap/**
+lib/jquery*/**
 
 #Including Angular files
 !lib/angular*/**
