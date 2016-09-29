@@ -1,5 +1,9 @@
 lib/
 
+#Including Angular files
+!lib/angular*/**
+
+
 *.js
 *.js.map
 
